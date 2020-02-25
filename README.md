@@ -6,5 +6,6 @@ Reproduce Prettier Apex issue [#180](https://github.com/dangmai/prettier-plugin-
 Run following command:
 
 ```bash
+npm ci
 npm run format-anonymous
 ```
